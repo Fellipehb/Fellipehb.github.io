@@ -1,12 +1,11 @@
 /* ========================= Typing Animation ========================= */
 let typed = new Typed(".typing", {
   strings: [
-    "",
     "Programador Back End",
-    "Database Analytic or DBA"
-  ],
-  typeSpeed: 5,
-  BackSpeed: 60,
+    "Database Analytic or DBA",
+    "Develop "],
+  typeSpeed: 80,
+  BackSpeed: 50,
   loop: true,
 });
 
