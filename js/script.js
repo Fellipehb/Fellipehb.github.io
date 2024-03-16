@@ -5,7 +5,7 @@ let typed = new Typed(".typing", {
     "Programador Back End",
     "Database Analytic or DBA"
   ],
-  typeSpeed: 2,
+  typeSpeed: 5,
   BackSpeed: 60,
   loop: true,
 });
